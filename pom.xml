@@ -36,6 +36,7 @@
 
 	<modules>
 		<module>modules/store-admin</module>
+		<module>modules/store-admin-data</module>
     </modules>
 
 	<properties>
